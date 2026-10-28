@@ -1,0 +1,15 @@
+{
+  "name": "advance-programming-crud-api",
+  "version": "1.0.0",
+  "description": "Express.js REST API with Modular MVC (in-memory data)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
